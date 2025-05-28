@@ -49,7 +49,8 @@ def recognize_gesture(hand_landmarks):
         2: "TWO",
         3: "THREE",
         4: "FOUR",
-        5: "FIVE"
+        5: "FIVE",
+        6:"SIX"
     }
     gesture = count_labels.get(total_fingers, str(total_fingers))
 
