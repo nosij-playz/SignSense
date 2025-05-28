@@ -51,11 +51,12 @@ This file is a placeholder for modular code. It can include:
 
 ## 📸 Screenshots
 
-| Live Gesture Detection | File Structure |
-|------------------------|----------------|
-| ![Gesture](https://via.placeholder.com/400x240.png?text=Live+Gesture+Detection) | ![File Tree](https://via.placeholder.com/400x240.png?text=Project+Structure) |
-
-*(Replace these with actual screenshots from your app for a better showcase)*
+| Example Screens | More Views |
+|----------------|------------|
+| ![1.png](pics/1.png) | ![2.png](pics/2.png) |
+| ![3.png](pics/3.png) | ![4.png](pics/4.png) |
+| ![5.png](pics/5.png) | ![6.png](pics/6.png) |
+| ![7.png](pics/7.png) |  |
 
 ---
 
