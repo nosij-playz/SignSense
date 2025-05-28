@@ -60,7 +60,7 @@ This file is a placeholder for modular code. It can include:
 | ![9.png](pics/9.png) | ![10.png](pics/10.png) |
 | ![11.png](pics/11.png) | ![12.png](pics/12.png) |
 | ![13.png](pics/13.png) | ![14.png](pics/14.png) |
-| ![15.png](pics/15.png) | ![16.png](pics/16.png) |
+| ![15.png](pics/15.png) |
 
 ## 🛠️ Requirements
 
