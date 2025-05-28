@@ -91,4 +91,4 @@ python app.py
 For more queries, feature requests, or bug reports, feel free to contact:
 
 👨‍💻 **Jison Joseph Sebastian**  
-🔗 [Contact via Portfolio](https://myporfolio-1o1h.onrender.com/contact)
+🔗 [Contact me](https://myporfolio-1o1h.onrender.com/contact)
